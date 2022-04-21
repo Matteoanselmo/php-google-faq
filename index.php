@@ -48,6 +48,33 @@
     <title>PHP google FAQ</title>
 </head>
 <body>
+    <header class="container-fluid">
+        <div class="row">
+            <div class="col-12 d-flex align-items-center m-3">
+                <h3 class="me-2 mb-0 fw-bold">Google</h3>
+                <p class="text-secondary m-0 fw-bold">Privacy e termini</p>
+            </div>
+            <div class="col-12 border-bottom border-secondary">
+                <ul class="d-flex ps-3">
+                    <li class="me-4">
+                        <a href="#" class="text-secondary fw-bold">Introduzione</a>
+                    </li>
+                    <li class="me-4">
+                        <a href="#" class="text-secondary fw-bold">Norme sulla privacy</a>
+                    </li>
+                    <li class="me-4">
+                        <a href="#" class="text-secondary fw-bold">Termini e servizio</a>
+                    </li>
+                    <li class="me-4">
+                        <a href="#" class="text-secondary fw-bold">Tecnologie</a>
+                    </li>
+                    <li class="me-4">
+                        <a href="#" class="text-primary border-bottom border-primary pb-2 fw-bold" >Domande frequenti</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
     <main class="container-fluid">
         <div class="row justify-content-center my-5">
             <div class="col-6">
